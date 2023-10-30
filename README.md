@@ -54,7 +54,9 @@ Regressão Linear: técnica estatística que permite modelar a relação entre v
 •	BoxPlot, é uma maneira gráfica de representar a alteração dos dados de uma variável por meio de quartis. Ele exibe o resumo de cinco números de um conjunto de dados, que é composto pelo mínimo, primeiro quartil, mediana, terceiro quartil e máximo. 
 
 4° Verificar correlação entre as variáveis utilizando Pairplot e Heatmap;
-•	Pairplot, ferramenta de visualização de dados que permite comparar as relações entre pares de variáveis em um conjunto de dados. Ele exibe gráficos de dispersão para cada par de variáveis e histogramas para cada variável individual . Ele é útil para identificar padrões e correlações entre variáveis em um conjunto de dados .
+
+•	Pairplot, ferramenta de visualização de dados que permite comparar as relações entre pares de variáveis em um conjunto de dados. Ele exibe gráficos de dispersão para cada par de variáveis e histogramas para cada variável individual . Ele é útil para identificar padrões e correlações entre variáveis em um conjunto de dados.
+
 •	Heatmap, ferramenta usada para identificar padrões em grandes conjuntos de dados e para visualizar a correlação entre diferentes variáveis em um conjunto de dados .   
 
 5° Verificar distribuição dos dados da variável dependente;
